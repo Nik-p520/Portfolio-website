@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my portfolio website! This project exemplifies my proficiency in web development using HTML, CSS, and JavaScript to create a fully responsive and dynamic portfolio. Leveraging my expertise in front-end technologies, I designed a visually appealing and user-friendly interface that adapts seamlessly to different screen sizes and devices. The site incorporates modern web development practices, utilizing HTML5 for semantic structure, CSS3 for elegant styling and animations, and JavaScript for interactive elements such as dynamic content loading and smooth scrolling effects.
+Welcome to the repo of my portfolio website! This project exemplifies my proficiency in web development using HTML, CSS, and JavaScript to create a fully responsive and dynamic portfolio. Leveraging my expertise in front-end technologies, I designed a visually appealing and user-friendly interface that adapts seamlessly to different screen sizes and devices. The site incorporates modern web development practices, utilizing HTML5 for semantic structure, CSS3 for elegant styling and animations, and JavaScript for interactive elements such as dynamic content loading and smooth scrolling effects.
 
 I have also integrated my skills in responsive design principles, ensuring an optimal viewing experience across desktops, tablets, and smartphones. Through careful attention to detail in layout and typography, I aimed to provide visitors with a cohesive and engaging browsing experience that highlights my projects, skills, and professional journey. Each section of the portfolio is thoughtfully crafted to showcase my technical capabilities, creativity, and passion for web development.
 
